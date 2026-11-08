@@ -14,7 +14,7 @@
 
 <table>
 <tr>
-<td width="38%" valign="middle"><img src="ascii-art.png" alt="ASCII art portrait" width="100%"/></td>
+<td width="38%" valign="middle"><img src="ascii-art (1).png" alt="ASCII art portrait" width="100%"/></td>
 <td valign="middle">
 <pre>
 bhuvan@christ

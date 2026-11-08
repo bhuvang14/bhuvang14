@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Bhuvan G" width="100%"/>
+<img src="banner.svg" alt="Bhuvan G" width="100%"/>
 
 <a href="https://github.com/bhuvang14"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=FF2E97&center=true&vCenter=true&width=620&lines=Multi-agent+AI+code+review;Quantum+%2B+post-quantum+cryptography;Hackathons+%C2%B7+Research+%C2%B7+Shipping" alt="Typing SVG" /></a>
 

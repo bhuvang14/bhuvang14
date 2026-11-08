@@ -19,7 +19,7 @@
 <pre>
 bhuvan@christ
 --------------------------------------
-Role:       BTech CSE-IoT (AI/ML Honours), 3rd year
+Role:       BTech CSE-IoT (AI/ML Honours), 2nd year
 Host:       CHRIST (Deemed to be University)
 Location:   Bengaluru, India
 Focus:      AI for software &amp; security
